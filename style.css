@@ -27,3 +27,9 @@ html {
   border-width:5px;
   border-color:black
 }
+
+#robot {
+  border-style:solid;
+  border-width:5px;
+  border-color:darkred
+}
