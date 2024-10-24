@@ -31,5 +31,16 @@ html {
 #robot {
   border-style:solid;
   border-width:5px;
-  border-color:darkred
+  border-color:darkred;
+  margin-left:100px;
+}
+
+.reply{
+  padding-left:50px;
+}
+
+#BTL {
+  font-size:40px;
+  color:firebrick;
+  font-style:italic;
 }
