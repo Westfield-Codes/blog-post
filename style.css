@@ -32,7 +32,11 @@ html {
   border-style:solid;
   border-width:5px;
   border-color:darkred;
-  margin-left:100px;
+
+  background:url("https://image.cnbcfm.com/api/v1/image/105786247-1552311939465gettyimages-920743046.jpeg?v=1562950112") repeat-x;
+  height:300px;
+  width:100%;
+  background-size:contain;
 }
 
 .reply{
